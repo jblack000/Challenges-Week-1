@@ -1,0 +1,14 @@
+C:\revature\Challenges\week1\Palindrome\Palindrome.Client\bin\Debug\netcoreapp2.2\Palindrome.Client.deps.json
+C:\revature\Challenges\week1\Palindrome\Palindrome.Client\bin\Debug\netcoreapp2.2\Palindrome.Client.runtimeconfig.json
+C:\revature\Challenges\week1\Palindrome\Palindrome.Client\bin\Debug\netcoreapp2.2\Palindrome.Client.runtimeconfig.dev.json
+C:\revature\Challenges\week1\Palindrome\Palindrome.Client\bin\Debug\netcoreapp2.2\Palindrome.Client.dll
+C:\revature\Challenges\week1\Palindrome\Palindrome.Client\bin\Debug\netcoreapp2.2\Palindrome.Client.pdb
+C:\revature\Challenges\week1\Palindrome\Palindrome.Client\bin\Debug\netcoreapp2.2\Palindrome.Domain.dll
+C:\revature\Challenges\week1\Palindrome\Palindrome.Client\bin\Debug\netcoreapp2.2\Palindrome.Domain.pdb
+C:\revature\Challenges\week1\Palindrome\Palindrome.Client\obj\Debug\netcoreapp2.2\Palindrome.Client.csprojAssemblyReference.cache
+C:\revature\Challenges\week1\Palindrome\Palindrome.Client\obj\Debug\netcoreapp2.2\Palindrome.Client.csproj.CoreCompileInputs.cache
+C:\revature\Challenges\week1\Palindrome\Palindrome.Client\obj\Debug\netcoreapp2.2\Palindrome.Client.AssemblyInfoInputs.cache
+C:\revature\Challenges\week1\Palindrome\Palindrome.Client\obj\Debug\netcoreapp2.2\Palindrome.Client.AssemblyInfo.cs
+C:\revature\Challenges\week1\Palindrome\Palindrome.Client\obj\Debug\netcoreapp2.2\Palindrome.Client.csproj.CopyComplete
+C:\revature\Challenges\week1\Palindrome\Palindrome.Client\obj\Debug\netcoreapp2.2\Palindrome.Client.dll
+C:\revature\Challenges\week1\Palindrome\Palindrome.Client\obj\Debug\netcoreapp2.2\Palindrome.Client.pdb
